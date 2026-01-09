@@ -1,17 +1,18 @@
 ## Hi, I am Mahalakshmi
 
+I’m an undergraduate student with an interest in software development.  
+I enjoy learning and working with programming languages and building small projects to improve my skills.
 
-<!--
-**mahalakshmi2453028-ops/mahalakshmi2453028-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Java
+- SQL
+- C / C++
+- Basics of Git and GitHub
 
-Here are some ideas to get you started:
+### Currently Learning
+- Data structures
+- Backend fundamentals
+- Problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+- LinkedIn: https://www.linkedin.com/in/maha-lakshmi-b4
