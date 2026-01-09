@@ -7,7 +7,7 @@ I enjoy learning and working with programming languages and building small proje
 - Java
 - SQL
 - C / C++
-- Basics of Git and GitHub
+- Python
 
 ### Currently Learning
 - Data structures
